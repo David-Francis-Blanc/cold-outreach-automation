@@ -28,4 +28,4 @@ This capstone automates cold outreach using Google Sheets and Google Apps Script
 - Gmail App
 
 ## Author
-[Your Name]
+[David Francis Blanc
